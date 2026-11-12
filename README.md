@@ -2,4 +2,3 @@
 
 A simple calculator application.
 
-Screenshot
